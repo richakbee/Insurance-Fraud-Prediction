@@ -1,0 +1,5 @@
+2021-02-04/13:31:37		 Good Raw directory at location Training_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-04/13:31:37		NO bad data to archive at location 
+2021-02-04/13:31:37		deleted the Bad Raw Data folder successfully
+2021-02-04/13:38:37		 Bad Raw directory at location Training_Raw_files_validated/Bad_Raw deleted succesfully
+2021-02-04/13:38:37		 Good Raw directory at location Training_Raw_files_validated/Good_Raw deleted succesfully

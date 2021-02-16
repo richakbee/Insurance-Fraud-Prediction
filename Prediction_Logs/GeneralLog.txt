@@ -1,0 +1,13 @@
+2021-02-04/13:42:24		 Good Raw directory at location Prediction_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-04/13:42:24		NO bad data to archive at location 
+2021-02-04/13:42:24		deleted the Bad Raw Data folder successfully
+2021-02-04/14:03:03		 Good Raw directory at location Prediction_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-04/14:03:03		NO bad data to archive at location 
+2021-02-04/14:03:03		deleted the Bad Raw Data folder successfully
+2021-02-04/14:05:22		 Bad Raw directory at location Prediction_Raw_files_validated/Bad_Raw deleted succesfully
+2021-02-04/14:05:22		 Good Raw directory at location Prediction_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-04/14:06:19		 Bad Raw directory at location Prediction_Raw_files_validated/Bad_Raw deleted succesfully
+2021-02-04/14:06:19		 Good Raw directory at location Prediction_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-04/14:06:21		 Good Raw directory at location Prediction_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-04/14:06:21		NO bad data to archive at location 
+2021-02-04/14:06:21		deleted the Bad Raw Data folder successfully

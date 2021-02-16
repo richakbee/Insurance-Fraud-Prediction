@@ -1,0 +1,19 @@
+p o l i c y _ n u m b e r
+p o l i c y _ b i n d _ d a t e
+p o l i c y _ s t a t e
+i n s u r e d _ z i p
+i n c i d e n t _ l o c a t i o n
+i n c i d e n t _ d a t e
+i n c i d e n t _ s t a t e
+i n c i d e n t _ c i t y
+i n s u r e d _ h o b b i e s
+a u t o _ m a k e
+a u t o _ m o d e l
+a u t o _ y e a r
+a g e
+t o t a l _ c l a i m _ a m o u n t
+n u m b e r _ o f _ v e h i c l e s _ i n v o l v e d
+p o l i c y _ a n n u a l _ p r e m i u m
+p o l i c y _ d e d u c t a b l e
+v e h i c l e _ a g e
+v e h i c l e _ c l a i m

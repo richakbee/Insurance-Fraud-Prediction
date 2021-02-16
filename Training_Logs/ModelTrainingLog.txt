@@ -1,0 +1,63 @@
+2021-02-04/13:31:37		Training started!!
+2021-02-04/13:31:37		 Successful in getting Training_FileFromDB/InputFile.csv data
+2021-02-04/13:31:37		Entered remove_columns of preprocessing class!!
+2021-02-04/13:31:37		Column removal Successful.Exited the remove_columns method of the Preprocessor class!!
+2021-02-04/13:31:37		Entered is_null_present in class preprocessing. Checking for null values in training data
+2021-02-04/13:31:37		Finding missing values is a success.Data written to the null values file at preprocessing_data/. Exited the is_null_present method of the Preprocessor class
+2021-02-04/13:31:37		Entered impute_Categorical_values of preprocessing class!!
+2021-02-04/13:31:37		imputing null value in categorical features successful. Exited the impute_Categorical_values method of the Preprocessor class!!
+2021-02-04/13:31:37		Entered encode_categorical_columns of preprocessing class!!
+2021-02-04/13:31:37		Encoding successful. Exited encode_categorical_columns of preprocessing class!!
+2021-02-04/13:31:37		Entered the impute_missing_values_KNN method of the Preprocessor class!!
+2021-02-04/13:31:37		Imputing missing values Successful. Exited the impute_missing_values_KNN method of the Preprocessor class!!
+2021-02-04/13:31:37		Entered remove_columns of preprocessing class!!
+2021-02-04/13:31:37		Column removal Successful.Exited the remove_columns method of the Preprocessor class!!
+2021-02-04/13:31:37		Entered get_col_with_zero_std_deviation of preprocessing class!!
+2021-02-04/13:31:38		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class!!
+2021-02-04/13:31:38		Entered calculate_vif_ of preprocessing class!!
+2021-02-04/13:31:46		13:31:38 dropping 'vehicle_claim' at index: 23
+2021-02-04/13:31:46		13:31:38 dropping 'policy_annual_premium' at index: 3
+2021-02-04/13:31:46		13:31:38 dropping 'number_of_vehicles_involved' at index: 15
+2021-02-04/13:31:46		13:31:38 dropping 'policy_deductable' at index: 2
+2021-02-04/13:31:46		13:31:38 dropping 'vehicle_age' at index: 21
+2021-02-04/13:31:46		Calculation of VIF against threshold  Successful.Exiting calculate_vif_  method of the Preprocessor class!!
+2021-02-04/13:31:46		Entered separate_features_and_label of class preprocessing!!
+2021-02-04/13:31:47		Label separation successful .Exited separate_features_and_label of class preprocessing!!
+2021-02-04/13:31:47		Entered scale_numerical_columns of preprocessing class!!
+2021-02-04/13:31:47		Scaling numerical columns successful.Exited scale_numerical_columns of preprocessing class!!
+2021-02-04/13:31:47		Entered the elbow_plot method of the Clustering class
+2021-02-04/13:31:49		The optimum number of clusters is: None . Exited the elbow_plot method of the Clustering class
+2021-02-04/13:31:49		Entered the create_clusters method of the Clustering class
+2021-02-04/13:31:49		calling the save model method from create_clusters method of the Clustering class
+2021-02-04/13:31:49		Entered save_model of model_functions class!!
+2021-02-04/13:31:49		saving the model KMeans successfully.Exited the save_model of model_functions class!!
+2021-02-04/13:31:49		Exited the create_clusters method of the Clustering class
+2021-02-04/13:31:49		entered get_best_model method in class model_finder!! 
+2021-02-04/13:31:49		making calls to functions for get_best_params for each model in tuner class !! 
+2021-02-04/13:31:49		Entered get_params_for_xgboost of tuner class!!
+2021-02-04/13:32:12		get best params for xgboost successful{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 10}.Exited get_params_for_xgboost of tuner class!!
+2021-02-04/13:32:12		Entered get_params_for_random_forest of tuner class!!
+2021-02-04/13:33:04		get best params for random_forest successful .{'criterion': 'gini', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 130}.Exited get_params_for_random_forest of tuner class!!
+2021-02-04/13:33:04		Entered get_params_for_naive_bayes of tuner class!!
+2021-02-04/13:33:05		get best params for naive_bayes successful .{'var_smoothing': 0.1}.Exited get_params_for_naive_bayes of tuner class!!
+2021-02-04/13:33:05		Entered get_params_for_svm of tuner class!!
+2021-02-04/13:33:06		get best params for SVM successful .{'C': 0.5, 'kernel': 'linear'}.Exited get_params_for_svm of tuner class!!
+2021-02-04/13:33:06		Calls to functions for get_best_params for each model in tuner class ended successfully!! 
+2021-02-04/13:33:06		Exited the get_best_model method of the Clustering class. 
+2021-02-04/13:33:06		Entered save_model of model_functions class!!
+2021-02-04/13:33:06		saving the model xgboost0 successfully.Exited the save_model of model_functions class!!
+2021-02-04/13:33:06		entered get_best_model method in class model_finder!! 
+2021-02-04/13:33:06		making calls to functions for get_best_params for each model in tuner class !! 
+2021-02-04/13:33:06		Entered get_params_for_xgboost of tuner class!!
+2021-02-04/13:33:27		get best params for xgboost successful{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 10}.Exited get_params_for_xgboost of tuner class!!
+2021-02-04/13:33:27		Entered get_params_for_random_forest of tuner class!!
+2021-02-04/13:34:25		get best params for random_forest successful .{'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 130}.Exited get_params_for_random_forest of tuner class!!
+2021-02-04/13:34:25		Entered get_params_for_naive_bayes of tuner class!!
+2021-02-04/13:34:26		get best params for naive_bayes successful .{'var_smoothing': 1e-09}.Exited get_params_for_naive_bayes of tuner class!!
+2021-02-04/13:34:26		Entered get_params_for_svm of tuner class!!
+2021-02-04/13:34:28		get best params for SVM successful .{'C': 0.5, 'kernel': 'linear'}.Exited get_params_for_svm of tuner class!!
+2021-02-04/13:34:28		Calls to functions for get_best_params for each model in tuner class ended successfully!! 
+2021-02-04/13:34:28		Exited the get_best_model method of the Clustering class. 
+2021-02-04/13:34:28		Entered save_model of model_functions class!!
+2021-02-04/13:34:28		saving the model xgboost1 successfully.Exited the save_model of model_functions class!!
+2021-02-04/13:34:28		Training Successful!!
