@@ -1,2 +1,2 @@
 server,db,username,password,driver
-AAPL-L-211\SQLEXPRESS,Booking,sa,test@123,Driver={SQL Server Native Client 11.0}
+server name,database name,sa,password,Driver={SQL Server Native Client 11.0}
