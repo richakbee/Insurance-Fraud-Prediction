@@ -131,3 +131,9 @@ e)	Scale the numeric values using the standard scaler.
 3) Clustering - KMeans model created during training is loaded, and clusters for the preprocessed prediction data is predicted.
 4) Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 5) Once the prediction is made for all the clusters, the predictions along with the Wafer names are saved in a CSV file at a given location, and the location is returned to the client.
+
+## Deployment 
+
+### Development (Flask & Post Man for API testing)
+
+<img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Training_postman.jpg"/> <img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Prediction_postman.jpg"/>
