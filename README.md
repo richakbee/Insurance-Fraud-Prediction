@@ -136,4 +136,18 @@ e)	Scale the numeric values using the standard scaler.
 
 ### Development (Flask & Post Man for API testing)
 
-<img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Training_postman.jpg"/> <img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Prediction_postman.jpg"/>
+<b> /train route </b>
+
+<img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Training_postman.jpg"/>
+
+<b> /predict route </b>
+
+<img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Prediction_postman.jpg"/>
+
+### WebApp
+
+<img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp3.jpg"/>
+
+<img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp1.jpg"/>
+
+<img src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp2.jpg"/>
