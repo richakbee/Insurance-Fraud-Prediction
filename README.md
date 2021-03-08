@@ -138,7 +138,7 @@ e)	Scale the numeric values using the standard scaler.
 
 <b> /train route </b>
 
-<img width=500px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Training_postman.jpg"/>
+<img width=800px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Training_postman.jpg"/>
 
 <b> /predict route </b>
 
