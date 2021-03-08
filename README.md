@@ -142,12 +142,12 @@ e)	Scale the numeric values using the standard scaler.
 
 <b> /predict route </b>
 
-<img width=500px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Prediction_postman.jpg"/>
+<img width=800px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/Prediction_postman.jpg"/>
 
 ### WebApp
 
-<img width=500px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp3.jpg"/>
+<img width=800px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp3.jpg"/>
 
-<img width=500px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp1.jpg"/>
+<img width=800px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp1.jpg"/>
 
-<img width=500px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp2.jpg"/>
+<img width=800px src="https://github.com/richakbee/Insurance-Fraud-Prediction/blob/main/screenshots/webapp2.jpg"/>
